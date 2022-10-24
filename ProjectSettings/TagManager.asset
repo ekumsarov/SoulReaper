@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back_2
+    uniqueID: 593872881
+    locked: 0
+  - name: groundBackWall
+    uniqueID: 1640712599
+    locked: 0
+  - name: flora_back
+    uniqueID: 2093282553
+    locked: 0
+  - name: ground_top
+    uniqueID: 3271503037
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 201285705
+    locked: 0
+  - name: flora_front
+    uniqueID: 3160600887
+    locked: 0

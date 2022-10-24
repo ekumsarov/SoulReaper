@@ -1,0 +1,4 @@
+repository "SoulReaper01@Maxim_Yakovenko@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,534 @@
+fileFormatVersion: 2
+guid: 8837bbb57e267254ca06318b1d4210c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8169974968972863357
+    second: flora_5
+  - first:
+      213: -6183480332634425389
+    second: flora_9
+  - first:
+      213: -7403149696666604434
+    second: flora_10
+  - first:
+      213: 1911558221170784112
+    second: flora_3
+  - first:
+      213: -1201494672719609254
+    second: flora_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flora_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1748
+        width: 311
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5193824, y: 0.19657417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dec560f3bd5d400800000000000000
+      internalID: 348425609927257398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1747
+        width: 308
+        height: 292
+      alignment: 9
+      pivot: {x: 0.48858315, y: 0.102598846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5d911d3e89aa320800000000000000
+      internalID: 2570034641601418733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1770
+        width: 153
+        height: 124
+      alignment: 9
+      pivot: {x: 0.46632358, y: 0.21869141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4b3b4d95848110800000000000000
+      internalID: 1262280706189119020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1746
+        width: 305
+        height: 224
+      alignment: 9
+      pivot: {x: 0.49353588, y: 0.227211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91542bdbf890cd6c0800000000000000
+      internalID: -4117405446355925735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1739
+        width: 395
+        height: 215
+      alignment: 9
+      pivot: {x: 0.5149695, y: 0.23412916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4843a5bdba84ae0d0800000000000000
+      internalID: -3392819466313517948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1743
+        width: 142
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5212239, y: 0.21565832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047288cd355ec2d30800000000000000
+      internalID: 4408150283633829696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1478
+        width: 370
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5233972, y: 0.29395252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3421d787f91d50d40800000000000000
+      internalID: 5550072598655472195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1549
+        width: 291
+        height: 142
+      alignment: 9
+      pivot: {x: 0.49464735, y: 0.34385917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931fb06eac1514c0800000000000000
+      internalID: -4317513132491730019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_18
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1550
+        width: 291
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5067734, y: 0.20298369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296af88c024d0b160800000000000000
+      internalID: 7039359454848984722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_19
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1546
+        width: 311
+        height: 155
+      alignment: 9
+      pivot: {x: 0.48614597, y: 0.3611439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5964d5a296e76b970800000000000000
+      internalID: 8770336314498041493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_20
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1551
+        width: 137
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5199821, y: 0.3809196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a42211c3d61d1d50800000000000000
+      internalID: 6709544118585009317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_21
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1551
+        width: 124
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6345896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ead24059b5e9be0800000000000000
+      internalID: -1468635732897845677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1401
+        width: 100
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.82732874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169975d9a55a6330800000000000000
+      internalID: 3704867831385003536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1669
+        width: 419
+        height: 79
+      alignment: 9
+      pivot: {x: 0.4969093, y: 0.30328602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9748e145f16591a00800000000000000
+      internalID: 727707507352306809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_9
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1543
+        width: 283
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5060802, y: 0.3981094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7f5b1266ddf2aa0800000000000000
+      internalID: -6183480332634425389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_10
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1902
+        width: 160
+        height: 116
+      alignment: 9
+      pivot: {x: 0.47581673, y: 0.4996685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c652f039ab24990800000000000000
+      internalID: -7403149696666604434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_3
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1638
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077bc540318378a10800000000000000
+      internalID: 1911558221170784112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flora_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1409
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52060106fe635fe0800000000000000
+      internalID: -1201494672719609254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      flora_11: -1201494672719609254
+      flora_19: 8770336314498041493
+      flora_7: 4408150283633829696
+      flora_6: -3392819466313517948
+      flora_4: -4117405446355925735
+      flora_8: 727707507352306809
+      flora_20: 6709544118585009317
+      flora_10: -7403149696666604434
+      flora_3: 1911558221170784112
+      flora_16: -4317513132491730019
+      flora_15: 5550072598655472195
+      flora_0: 348425609927257398
+      flora_21: -1468635732897845677
+      flora_2: 1262280706189119020
+      flora_22: 3704867831385003536
+      flora_18: 7039359454848984722
+      flora_9: -6183480332634425389
+      flora_1: 2570034641601418733
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
